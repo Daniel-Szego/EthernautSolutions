@@ -5,4 +5,5 @@
 03. CoinFlip
 04. Telephone
 05. Token
+06. Delegatecall
 
