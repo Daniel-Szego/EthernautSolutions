@@ -7,3 +7,5 @@
 05. Token
 06. Delegatecall
 07. Force
+08. Vault
+
