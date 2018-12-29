@@ -15,5 +15,11 @@
 13. GateKeeper One
 14. gateKeeper Two
 15. Naught Coin
-
+16.
+17.
+18.
+19.
+20.
+21.
+22. Shop
 
