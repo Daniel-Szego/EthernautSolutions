@@ -17,7 +17,7 @@
 15. Naught Coin
 16.
 17. Locked
-18.
+18. Recovery
 19.
 20.
 21.
