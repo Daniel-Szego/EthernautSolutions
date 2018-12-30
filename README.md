@@ -16,7 +16,7 @@
 14. gateKeeper Two
 15. Naught Coin
 16.
-17.
+17. Locked
 18.
 19.
 20.
