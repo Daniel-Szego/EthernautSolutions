@@ -15,7 +15,7 @@
 13. GateKeeper One
 14. gateKeeper Two
 15. Naught Coin
-16.
+16. Preservation
 17. Locked
 18. Recovery
 19.
