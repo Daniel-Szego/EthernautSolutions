@@ -11,7 +11,7 @@
 09. King
 10. Reentrancy
 11. Elavator
-12. 
+12. Privacy
 13. GateKeeper One
 14. gateKeeper Two
 15. Naught Coin
